@@ -362,3 +362,69 @@ java.lang.NullPointerException: Cannot invoke "net.lax1dude.eaglercraft.v1_8.plu
 02:10:07 [SEVERE] [/[0:0:0:0:0:0:0:1]:43144] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
 02:10:07 [SEVERE] [/[0:0:0:0:0:0:0:1]:43154] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
 02:10:07 [SEVERE] [/[0:0:0:0:0:0:0:1]:43166] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+02:18:27 [INFO] Using mbed TLS based native cipher.
+02:18:27 [INFO] Using zlib based native compressor.
+02:18:27 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:26.1-R0.1-SNAPSHOT:dd59adf:2064
+02:18:27 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+02:18:27 [INFO] Epoll is working, utilising it!
+02:18:27 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+02:18:27 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+02:18:27 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+02:18:27 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+02:18:27 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+02:18:27 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+02:18:28 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:18:28 [INFO] Loaded plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:18:28 [INFO] Loaded plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:18:28 [INFO] Loaded plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:18:28 [INFO] Loaded plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:18:28 [INFO] Loaded plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:18:28 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:18:28 [WARNING] :>  
+02:18:28 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+02:18:28 [WARNING] :>  
+02:18:28 [WARNING] :>  This plugin wasn't tested to be 'working'
+02:18:28 [WARNING] :>  with ANY version of BungeeCord (and forks)
+02:18:28 [WARNING] :>  apart from the versions listed below:
+02:18:28 [WARNING] :>  
+02:18:28 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:4886c4b:1881
+02:18:28 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:de8345a:579
+02:18:28 [WARNING] :>  
+02:18:28 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+02:18:28 [WARNING] :>  
+02:18:28 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+02:18:28 [WARNING] :>  
+02:18:28 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:18:28 [WARNING] Error loading plugin EaglercraftXBungee
+java.lang.NoClassDefFoundError: gnu/trove/map/TIntObjectMap
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.config.EaglerBungeeConfig.loadConfig(EaglerBungeeConfig.java:162)
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.reloadConfig(EaglerXBungee.java:299)
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.onLoad(EaglerXBungee.java:126)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:363)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:269)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:289)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:69)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: gnu.trove.map.TIntObjectMap
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:111)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:67)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	... 8 more
+02:18:28 [WARNING] Forced host server pvp is not defined
+02:18:28 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:18:28 [INFO] Enabled plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:18:28 [INFO] Enabled plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:18:28 [INFO] Enabled plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:18:28 [INFO] Enabled plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:18:28 [INFO] Enabled plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:18:28 [WARNING] Exception encountered when loading plugin: EaglercraftXBungee
+java.lang.NullPointerException: Cannot invoke "net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.config.EaglerBungeeConfig.getAuthConfig()" because "this.conf" is null
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.onEnable(EaglerXBungee.java:138)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:284)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:303)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:69)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+02:18:28 [INFO] Listening on /0.0.0.0:25577
+02:18:57 [SEVERE] [/[0:0:0:0:0:0:0:1]:34888] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+02:18:57 [SEVERE] [/[0:0:0:0:0:0:0:1]:34892] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+02:18:57 [SEVERE] [/[0:0:0:0:0:0:0:1]:34908] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
