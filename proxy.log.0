@@ -1,0 +1,364 @@
+01:26:09 [INFO] Using mbed TLS based native cipher.
+01:26:09 [INFO] Using zlib based native compressor.
+01:26:09 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:26.1-R0.1-SNAPSHOT:dd59adf:2064
+01:26:09 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+01:26:09 [INFO] Epoll is working, utilising it!
+01:26:09 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+01:26:09 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+01:26:09 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+01:26:09 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+01:26:09 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+01:26:09 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+01:26:09 [INFO] Attempting to update plugin from null to ModuleVersion(build=2064, git=dd59adf)
+01:26:09 [INFO] Attempting to Jenkins download module cmd_alert v2064
+01:26:11 [INFO] Download complete
+01:26:11 [INFO] Attempting to update plugin from null to ModuleVersion(build=2064, git=dd59adf)
+01:26:11 [INFO] Attempting to Jenkins download module cmd_find v2064
+01:26:12 [INFO] Download complete
+01:26:12 [INFO] Attempting to update plugin from null to ModuleVersion(build=2064, git=dd59adf)
+01:26:12 [INFO] Attempting to Jenkins download module cmd_list v2064
+01:26:13 [INFO] Download complete
+01:26:13 [INFO] Attempting to update plugin from null to ModuleVersion(build=2064, git=dd59adf)
+01:26:13 [INFO] Attempting to Jenkins download module cmd_send v2064
+01:26:13 [INFO] Download complete
+01:26:13 [INFO] Attempting to update plugin from null to ModuleVersion(build=2064, git=dd59adf)
+01:26:13 [INFO] Attempting to Jenkins download module cmd_server v2064
+01:26:14 [INFO] Download complete
+01:26:14 [INFO] Attempting to update plugin from null to ModuleVersion(build=2064, git=dd59adf)
+01:26:14 [INFO] Attempting to Jenkins download module reconnect_yaml v2064
+01:26:15 [INFO] Download complete
+01:26:15 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:26:15 [INFO] Loaded plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:26:15 [INFO] Loaded plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:26:15 [INFO] Loaded plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:26:15 [INFO] Loaded plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:26:15 [INFO] Loaded plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:26:15 [WARNING] Forced host server pvp is not defined
+01:26:15 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:26:15 [INFO] Enabled plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:26:15 [INFO] Enabled plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:26:15 [INFO] Enabled plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:26:15 [INFO] Enabled plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:26:15 [INFO] Enabled plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:26:15 [INFO] Listening on /0.0.0.0:25577
+01:27:42 [INFO] Using mbed TLS based native cipher.
+01:27:42 [INFO] Using zlib based native compressor.
+01:27:42 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:26.1-R0.1-SNAPSHOT:dd59adf:2064
+01:27:42 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+01:27:42 [INFO] Epoll is working, utilising it!
+01:27:42 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+01:27:42 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+01:27:42 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+01:27:42 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+01:27:42 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+01:27:42 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+01:27:42 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:27:42 [INFO] Loaded plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:27:42 [INFO] Loaded plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:27:42 [INFO] Loaded plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:27:42 [INFO] Loaded plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:27:42 [INFO] Loaded plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:27:42 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+01:27:42 [WARNING] :>  
+01:27:42 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+01:27:42 [WARNING] :>  
+01:27:42 [WARNING] :>  This plugin wasn't tested to be 'working'
+01:27:42 [WARNING] :>  with ANY version of BungeeCord (and forks)
+01:27:42 [WARNING] :>  apart from the versions listed below:
+01:27:42 [WARNING] :>  
+01:27:42 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:4886c4b:1881
+01:27:42 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:de8345a:579
+01:27:42 [WARNING] :>  
+01:27:42 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+01:27:42 [WARNING] :>  
+01:27:42 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+01:27:42 [WARNING] :>  
+01:27:42 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+01:27:43 [WARNING] Error loading plugin EaglercraftXBungee
+java.lang.NoClassDefFoundError: gnu/trove/map/TIntObjectMap
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.config.EaglerBungeeConfig.loadConfig(EaglerBungeeConfig.java:162)
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.reloadConfig(EaglerXBungee.java:299)
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.onLoad(EaglerXBungee.java:126)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:363)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:269)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:289)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:69)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: gnu.trove.map.TIntObjectMap
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:111)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:67)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	... 8 more
+01:27:43 [WARNING] Forced host server pvp is not defined
+01:27:43 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:27:43 [INFO] Enabled plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:27:43 [INFO] Enabled plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:27:43 [INFO] Enabled plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:27:43 [INFO] Enabled plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:27:43 [INFO] Enabled plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:27:43 [WARNING] Exception encountered when loading plugin: EaglercraftXBungee
+java.lang.NullPointerException: Cannot invoke "net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.config.EaglerBungeeConfig.getAuthConfig()" because "this.conf" is null
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.onEnable(EaglerXBungee.java:138)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:284)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:303)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:69)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+01:27:43 [INFO] Listening on /0.0.0.0:25577
+01:59:34 [INFO] Using mbed TLS based native cipher.
+01:59:34 [INFO] Using zlib based native compressor.
+01:59:34 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:26.1-R0.1-SNAPSHOT:dd59adf:2064
+01:59:34 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+01:59:34 [INFO] Epoll is working, utilising it!
+01:59:34 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+01:59:34 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+01:59:34 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+01:59:34 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+01:59:34 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+01:59:34 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+01:59:35 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:59:35 [INFO] Loaded plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:59:35 [INFO] Loaded plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:59:35 [INFO] Loaded plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:59:35 [INFO] Loaded plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:59:35 [INFO] Loaded plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:59:35 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+01:59:35 [WARNING] :>  
+01:59:35 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+01:59:35 [WARNING] :>  
+01:59:35 [WARNING] :>  This plugin wasn't tested to be 'working'
+01:59:35 [WARNING] :>  with ANY version of BungeeCord (and forks)
+01:59:35 [WARNING] :>  apart from the versions listed below:
+01:59:35 [WARNING] :>  
+01:59:35 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:4886c4b:1881
+01:59:35 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:de8345a:579
+01:59:35 [WARNING] :>  
+01:59:35 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+01:59:35 [WARNING] :>  
+01:59:35 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+01:59:35 [WARNING] :>  
+01:59:35 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+01:59:35 [WARNING] Error loading plugin EaglercraftXBungee
+java.lang.NoClassDefFoundError: gnu/trove/map/TIntObjectMap
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.config.EaglerBungeeConfig.loadConfig(EaglerBungeeConfig.java:162)
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.reloadConfig(EaglerXBungee.java:299)
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.onLoad(EaglerXBungee.java:126)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:363)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:269)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:289)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:69)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: gnu.trove.map.TIntObjectMap
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:111)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:67)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	... 8 more
+01:59:35 [WARNING] Forced host server pvp is not defined
+01:59:35 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:59:35 [INFO] Enabled plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:59:35 [INFO] Enabled plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:59:35 [INFO] Enabled plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:59:35 [INFO] Enabled plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:59:35 [INFO] Enabled plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+01:59:35 [WARNING] Exception encountered when loading plugin: EaglercraftXBungee
+java.lang.NullPointerException: Cannot invoke "net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.config.EaglerBungeeConfig.getAuthConfig()" because "this.conf" is null
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.onEnable(EaglerXBungee.java:138)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:284)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:303)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:69)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+01:59:35 [INFO] Listening on /0.0.0.0:25577
+02:03:00 [SEVERE] [/[0:0:0:0:0:0:0:1]:60140] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a41
+02:03:00 [SEVERE] [/[0:0:0:0:0:0:0:1]:60144] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a41
+02:03:00 [SEVERE] [/[0:0:0:0:0:0:0:1]:60154] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a41
+02:03:13 [INFO] Using mbed TLS based native cipher.
+02:03:13 [INFO] Using zlib based native compressor.
+02:03:13 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:26.1-R0.1-SNAPSHOT:dd59adf:2064
+02:03:13 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+02:03:13 [INFO] Epoll is working, utilising it!
+02:03:13 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+02:03:13 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+02:03:13 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+02:03:13 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+02:03:13 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+02:03:13 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+02:03:13 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:13 [INFO] Loaded plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:13 [INFO] Loaded plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:13 [INFO] Loaded plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:13 [INFO] Loaded plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:13 [INFO] Loaded plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:13 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:03:13 [WARNING] :>  
+02:03:13 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+02:03:13 [WARNING] :>  
+02:03:13 [WARNING] :>  This plugin wasn't tested to be 'working'
+02:03:13 [WARNING] :>  with ANY version of BungeeCord (and forks)
+02:03:13 [WARNING] :>  apart from the versions listed below:
+02:03:13 [WARNING] :>  
+02:03:13 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:4886c4b:1881
+02:03:13 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:de8345a:579
+02:03:13 [WARNING] :>  
+02:03:13 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+02:03:13 [WARNING] :>  
+02:03:13 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+02:03:13 [WARNING] :>  
+02:03:13 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:03:13 [WARNING] Error loading plugin EaglercraftXBungee
+java.lang.NoClassDefFoundError: gnu/trove/map/TIntObjectMap
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.config.EaglerBungeeConfig.loadConfig(EaglerBungeeConfig.java:162)
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.reloadConfig(EaglerXBungee.java:299)
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.onLoad(EaglerXBungee.java:126)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:363)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:269)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:289)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:69)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: gnu.trove.map.TIntObjectMap
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:111)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:67)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	... 8 more
+02:03:13 [WARNING] Forced host server pvp is not defined
+02:03:13 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:13 [INFO] Enabled plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:13 [INFO] Enabled plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:13 [INFO] Enabled plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:13 [INFO] Enabled plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:13 [INFO] Enabled plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:13 [WARNING] Exception encountered when loading plugin: EaglercraftXBungee
+java.lang.NullPointerException: Cannot invoke "net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.config.EaglerBungeeConfig.getAuthConfig()" because "this.conf" is null
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.onEnable(EaglerXBungee.java:138)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:284)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:303)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:69)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+02:03:13 [INFO] Listening on /0.0.0.0:25577
+02:03:46 [INFO] Using mbed TLS based native cipher.
+02:03:46 [INFO] Using zlib based native compressor.
+02:03:46 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:26.1-R0.1-SNAPSHOT:dd59adf:2064
+02:03:46 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+02:03:46 [INFO] Epoll is working, utilising it!
+02:03:46 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+02:03:46 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+02:03:46 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+02:03:46 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+02:03:46 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+02:03:46 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+02:03:46 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:46 [INFO] Loaded plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:46 [INFO] Loaded plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:46 [INFO] Loaded plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:46 [INFO] Loaded plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:46 [INFO] Loaded plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:47 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:03:47 [WARNING] :>  
+02:03:47 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+02:03:47 [WARNING] :>  
+02:03:47 [WARNING] :>  This plugin wasn't tested to be 'working'
+02:03:47 [WARNING] :>  with ANY version of BungeeCord (and forks)
+02:03:47 [WARNING] :>  apart from the versions listed below:
+02:03:47 [WARNING] :>  
+02:03:47 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:4886c4b:1881
+02:03:47 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:de8345a:579
+02:03:47 [WARNING] :>  
+02:03:47 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+02:03:47 [WARNING] :>  
+02:03:47 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+02:03:47 [WARNING] :>  
+02:03:47 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:03:47 [WARNING] Error loading plugin EaglercraftXBungee
+java.lang.NoClassDefFoundError: gnu/trove/map/TIntObjectMap
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.config.EaglerBungeeConfig.loadConfig(EaglerBungeeConfig.java:162)
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.reloadConfig(EaglerXBungee.java:299)
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.onLoad(EaglerXBungee.java:126)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:363)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:269)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:289)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:69)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: gnu.trove.map.TIntObjectMap
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:111)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:67)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	... 8 more
+02:03:47 [WARNING] Forced host server pvp is not defined
+02:03:47 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:47 [INFO] Enabled plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:47 [INFO] Enabled plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:47 [INFO] Enabled plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:47 [INFO] Enabled plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:47 [INFO] Enabled plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:47 [WARNING] Exception encountered when loading plugin: EaglercraftXBungee
+java.lang.NullPointerException: Cannot invoke "net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.config.EaglerBungeeConfig.getAuthConfig()" because "this.conf" is null
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.onEnable(EaglerXBungee.java:138)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:284)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:303)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:69)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+02:03:47 [INFO] Listening on /0.0.0.0:25577
+02:03:58 [INFO] Using mbed TLS based native cipher.
+02:03:58 [INFO] Using zlib based native compressor.
+02:03:58 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:26.1-R0.1-SNAPSHOT:dd59adf:2064
+02:03:58 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+02:03:58 [INFO] Epoll is working, utilising it!
+02:03:58 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+02:03:58 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+02:03:58 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+02:03:58 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+02:03:58 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+02:03:58 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+02:03:58 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:58 [INFO] Loaded plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:58 [INFO] Loaded plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:58 [INFO] Loaded plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:58 [INFO] Loaded plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:58 [INFO] Loaded plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:58 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:03:58 [WARNING] :>  
+02:03:58 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+02:03:58 [WARNING] :>  
+02:03:58 [WARNING] :>  This plugin wasn't tested to be 'working'
+02:03:58 [WARNING] :>  with ANY version of BungeeCord (and forks)
+02:03:58 [WARNING] :>  apart from the versions listed below:
+02:03:58 [WARNING] :>  
+02:03:58 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:4886c4b:1881
+02:03:58 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:de8345a:579
+02:03:58 [WARNING] :>  
+02:03:58 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+02:03:58 [WARNING] :>  
+02:03:58 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+02:03:58 [WARNING] :>  
+02:03:58 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:03:59 [WARNING] Error loading plugin EaglercraftXBungee
+java.lang.NoClassDefFoundError: gnu/trove/map/TIntObjectMap
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.config.EaglerBungeeConfig.loadConfig(EaglerBungeeConfig.java:162)
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.reloadConfig(EaglerXBungee.java:299)
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.onLoad(EaglerXBungee.java:126)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:363)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:269)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:289)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:69)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: gnu.trove.map.TIntObjectMap
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:111)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:67)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	... 8 more
+02:03:59 [WARNING] Forced host server pvp is not defined
+02:03:59 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:59 [INFO] Enabled plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:59 [INFO] Enabled plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:59 [INFO] Enabled plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:59 [INFO] Enabled plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:59 [INFO] Enabled plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:dd59adf:2064 by SpigotMC
+02:03:59 [WARNING] Exception encountered when loading plugin: EaglercraftXBungee
+java.lang.NullPointerException: Cannot invoke "net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.config.EaglerBungeeConfig.getAuthConfig()" because "this.conf" is null
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.onEnable(EaglerXBungee.java:138)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:284)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:303)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:69)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+02:03:59 [INFO] Listening on /0.0.0.0:25577
+02:10:07 [SEVERE] [/[0:0:0:0:0:0:0:1]:43144] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+02:10:07 [SEVERE] [/[0:0:0:0:0:0:0:1]:43154] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+02:10:07 [SEVERE] [/[0:0:0:0:0:0:0:1]:43166] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
